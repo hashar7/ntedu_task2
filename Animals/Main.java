@@ -11,8 +11,8 @@ public class Main {
 	    cow.voice();
 	    /* OUTPUT:
 	        Meow!
-            Hoof!
-            Muuu!
+            	Hoof!
+           	Muuu!
 	     */
     }
 }
